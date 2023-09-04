@@ -1,0 +1,1 @@
+{"uuid":"fa1f0d35-61e1-459b-b4d9-f1e017be56eb","name":"Checking displayed currencies","children":["96f1ded0-ca44-4f30-9e33-4ffda88cff1e"],"befores":[{"name":"LoadDashboardPage","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688995235457,"stop":1688995235472}],"afters":[],"start":1688995235450,"stop":1688995240893}

@@ -1,0 +1,1 @@
+{"uuid":"82607825-2883-4812-80f6-7b4491801dbb","name":"Checking if bank logo is displayed","children":["10787901-1445-4af6-9c6b-e37cac2aac0a"],"befores":[{"name":"LoadDashboardPage","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688995241410,"stop":1688995241427}],"afters":[],"start":1688995241392,"stop":1688995246706}
